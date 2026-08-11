@@ -63,7 +63,7 @@
 <br/>
 
 # Projects
-- [TasK-APP-REST-API](https://github.com/mohamedsaaad/TasK-APP-REST-API.git) - *Node.js | Express.js | JWT | MongoDB | Heroku* (Soon)
-- [weather-app](https://github.com/mohamedsaaad/weather-app.git) - *Node.js | Express.js | Heroku*
-- [MyNoteApp](https://github.com/mohamedsaaad/MyNoteApp.git) - *Java | XML | ROOM | Material Design | MVC*
-- [NewsApp](https://github.com/mohamedsaaad/NewsApp.git) - *Java | Retrofit | XML | ROOM | Material Design | MVC*
+- [Hotel Web App](https://github.com/MohamedElgendy712/Hotel-Web-App) - *Javascript | React | Node.js | Express.js | JWT | MongoDB*
+- [Payment Reminder App](https://github.com/marwanelgendy/Payment-Reminder-App) - *Javascript | React | Node.js | Express.js | JWT | MongoDB*
+- [Online Clinic App (Full stack)](https://github.com/MohamedElgendy712/online-clinic-app) - *Java | SpringBoot | MVC | Typescript | Angular*
+- [Http server](https://github.com/MohamedElgendy712/Http-Server-V1.1-) - *Java*
