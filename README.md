@@ -49,24 +49,3 @@
     <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-
-
-
-## 📊 My Github Stats
-<br/>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgendy712&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<br/>
-
-
-# Projects
-    - [TasK-APP-REST-API](https://github.com/mohamedsaaad/TasK-APP-REST-API.git) - *Node.js | Express.js | JWT | Mongodb | Heroku* (Soon)
-    - [weather-app](https://github.com/mohamedsaaad/weather-app.git) - *Node.js | Express.js | Heroku*
-    - [MyNoteApp](https://github.com/mohamedsaaad/MyNoteApp.git) - *Java | XML | ROOM | Matrial Design | MVC*
-    - [NewsApp](https://github.com/mohamedsaaad/NewsApp.git) - *Java | Retrofit | XML | ROOM | Matrial Design | MVC*
-
