@@ -56,7 +56,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElgendy712&theme=default"
+    src="https://streak-stats.demolab.com/?user=MohamedElgendy712&theme=default"
     alt="GitHub streak stats"
   />
 </p>
